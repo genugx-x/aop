@@ -1,9 +1,7 @@
 package com.genug.aop.pointcut;
 
-import com.genug.aop.member.MemberService;
 import com.genug.aop.member.MemberServiceImpl;
 import lombok.extern.slf4j.Slf4j;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
